@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://foodie-api-node.onrender.com/videos
 Content-type: application/json
 
 
@@ -10,12 +10,12 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://foodie-api-node.onrender.com/videos
 
 
 ###
 
-PUT http://localhost:3333/videos/1b1f4548-fc2b-4e32-82be-542d6a0b125c
+PUT https://foodie-api-node.onrender.com/videos/1b1f4548-fc2b-4e32-82be-542d6a0b125c
 Content-type: application/json
 
 
@@ -27,4 +27,4 @@ Content-type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/329c979b-3266-4270-8df1-3b5fdf5acc85
+DELETE https://foodie-api-node.onrender.com/videos/329c979b-3266-4270-8df1-3b5fdf5acc85
